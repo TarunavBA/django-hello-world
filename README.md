@@ -1,1 +1,0 @@
-# django-hello-world
