@@ -15,12 +15,16 @@ Python 2.7/3.5+ and PyPy.
 
     $ pip install django-hello-world
 
+Contributing
+------------
+To contribute follow the following steps:
+- Fork this repository
+- clone your repository which you just forked
+- start editing and pushing!
+
 License
 -------
 
 django-hello-world is distributed under the terms of both
 
 - `MIT License <https://choosealicense.com/licenses/mit>`_
-- `Apache License, Version 2.0 <https://choosealicense.com/licenses/apache-2.0>`_
-
-at your option.
