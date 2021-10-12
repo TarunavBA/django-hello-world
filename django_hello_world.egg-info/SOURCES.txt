@@ -1,11 +1,17 @@
+.coveragerc
+.gitattributes
+.gitignore
 LICENSE-APACHE
 LICENSE-MIT
 MANIFEST.in
 README.rst
 pyproject.toml
+requirements.txt
 setup.py
+tox.ini
 django_hello_world/__init__.py
 django_hello_world.egg-info/PKG-INFO
 django_hello_world.egg-info/SOURCES.txt
 django_hello_world.egg-info/dependency_links.txt
 django_hello_world.egg-info/top_level.txt
+tests/__init__.py
